@@ -5,4 +5,9 @@ Class:
 didalam Class terdapat
 
 > Field (Properties)
-> Method (Function)
+
+- Tipe Data => value tidak boleh kosong dan harus diinisiasi valuenya
+- Tipe Data? => value boleh kosong
+- Final Tipe Data => value tidak akan bisa diubah
+- gunakan simbol .(titik) untuk mengakses field
+  > Method (Function)
